@@ -10,3 +10,5 @@ def good_day(temperature):
 
     print("Комфортных дней в июне:", count_good_days)
 good_day(june)
+
+ЖОПА ЖОПАЖОПА ЖОПАЖОПА ЖОПАЖОПА ЖОПАЖОПА ЖОПАЖОПА ЖОПАЖОПА ЖОПА
